@@ -48,7 +48,7 @@ title-img: "/assets/img/avatar-icon.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ruby.charamond@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
